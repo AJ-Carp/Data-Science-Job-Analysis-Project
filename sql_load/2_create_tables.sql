@@ -1,4 +1,4 @@
--- Create company_dim table with primary key
+---Create company_dim table with primary key
 CREATE TABLE public.company_dim
 (
     company_id INT PRIMARY KEY,
