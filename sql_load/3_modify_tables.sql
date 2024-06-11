@@ -23,7 +23,6 @@ NOTE: If you are having issues with permissions. And you get error:
 
 */
 SELECT * FROM company_dim;
---- NOTE: This has been updated from the video to fix issues with encoding
 
 COPY company_dim
 FROM 'C:\Program Files\PostgreSQL\16\data\Datasets\sql_course\company_dim.csv'
