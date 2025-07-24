@@ -18,7 +18,7 @@ Driven by a quest to navigate the data analyst job market more effectively, this
 # Tools I Used
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
 
-- **SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights.
+- **SQL:** The backbone of my analysis, allowing me to query the database and make critical insights.
 - **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
 - **Visual Studio Code:** My go-to for database management and executing SQL queries.
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
@@ -88,9 +88,9 @@ ORDER BY
     salary_year_avg DESC;
 ```
 Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in 2023:
-- **SQL** is leading with a bold count of 8.
-- **Python** follows closely with a bold count of 7.
-- **Tableau** is also highly sought after, with a bold count of 6.
+- **SQL** is leading with a count of 8.
+- **Python** follows closely with a count of 7.
+- **Tableau** is also highly sought after, with a count of 6.
 Other skills like **R**, **Snowflake**, **Pandas**, and **Excel** show varying degrees of demand.
 
 ![Top Paying Skills](https://github.com/lukebarousse/SQL_Project_Data_Job_Analysis/blob/main/assets/2_top_paying_roles_skills.png)
@@ -219,11 +219,11 @@ Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 
 # What I Learned
 
-Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
+Throughout this journey, I've significantly deepened my SQL expertise:
 
-- **🧩 Complex Query Crafting:** Mastered the art of advanced SQL, merging tables like a pro and wielding WITH clauses for ninja-level temp table maneuvers.
-- **📊 Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
-- **💡 Analytical Wizardry:** Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
+- **🧩 Complex Query Crafting:** Developed proficiency in writing complex queries, effectively joining tables and using WITH clauses for cleaner, modular code.
+- **📊 Data Aggregation:** Strengthened my ability to group, filter, and summarize data using functions like COUNT(), AVG(), and GROUP BY.
+- **💡 Analytical Thinking:** Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
 
 # Conclusions
 
